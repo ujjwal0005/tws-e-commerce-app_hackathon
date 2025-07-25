@@ -32,7 +32,7 @@ const BekaryCategories = ({
         {!hidenameLink && (
           <div className="flex justify-between items-center gap-4 flex-wrap mb-6">
             <h1 className="text-2xl md:text-4xl font-semibold">
-              Explore your bekary items
+              Explore some tasty and yummy foods
             </h1>
             <Link
               href={"/shops/bakery"}
